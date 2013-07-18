@@ -1,0 +1,11 @@
+host,mac,ip,domain,hostgroup,model,partition_table
+server1,00:52:35:91:f9:56,192.168.1.11,example.com,Base Server,xenu,VM Standard
+server2,00:52:35:51:c9:e0,192.168.1.12,example.com,Base Server,xenu,VM Standard
+server3,00:52:35:50:84:48,192.168.1.13,example.com,Base Server,xenu,VM Standard
+server4,00:52:35:c3:ff:29,192.168.1.14,example.com,Base Server,xenu,VM Standard
+server5,00:52:35:d0:08:c9,192.168.1.15,example.com,Base Server,xenu,VM Standard
+workstation1,00:52:35:83:df:56,192.168.11.21,subdomain.example.com,Base Workstation,xenu,LVM
+workstation2,00:52:35:50:09:f8,192.168.11.22,subdomain.example.com,Base Workstation,xenu,LVM
+workstation3,00:52:35:53:f8:1d,192.168.11.23,subdomain.example.com,Base Workstation,xenu,LVM
+workstation4,00:52:35:b0:c1:72,192.168.11.24,subdomain.example.com,Base Workstation,xenu,LVM
+workstation5,00:52:35:41:73:b2,192.168.11.25,subdomain.example.com,Base Workstation,xenu,LVM
